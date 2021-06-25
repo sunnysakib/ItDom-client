@@ -1,10 +1,10 @@
 import React from "react";
 import "./CustomButton.scss";
 
-const CustomButton = ({ children, ...otherProps }) => {
+const CustomButton = ({ children, bannerbtn, ...otherProps }) => {
   return (
     <button
-      className= "custom-button"
+      className={`${bannerbtn ? "banner-btn" : ""} custom-button`}
       {...otherProps}
     >
       {children}

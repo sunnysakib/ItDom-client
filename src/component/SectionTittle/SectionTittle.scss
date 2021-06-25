@@ -1,0 +1,21 @@
+.section-title {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  .title {
+    display: flex;
+    align-items: center;
+
+    h1 {
+      color: #333;
+      font-weight: 600;
+      word-wrap: break-word;
+    }
+  }
+  .section-btn {
+    display: flex;
+    align-items: center;
+  }
+}

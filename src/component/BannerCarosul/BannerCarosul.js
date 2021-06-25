@@ -60,7 +60,7 @@ const BannerCarosul = () => {
                         path of vengeance against those who left him for dead
                         after
                       </p>
-                      <CustomButton>Watch Video</CustomButton>
+                      <CustomButton bannerbtn>Watch Video</CustomButton>
                     </div>
                   </div>
                 </div>
@@ -95,7 +95,7 @@ const BannerCarosul = () => {
                         path of vengeance against those who left him for dead
                         after
                       </p>
-                      <CustomButton>Watch Video</CustomButton>
+                      <CustomButton bannerbtn>Watch Video</CustomButton>
                     </div>
                   </div>
                 </div>
@@ -130,7 +130,7 @@ const BannerCarosul = () => {
                         path of vengeance against those who left him for dead
                         after
                       </p>
-                      <CustomButton>Watch Video</CustomButton>
+                      <CustomButton bannerbtn>Watch Video</CustomButton>
                     </div>
                   </div>
                 </div>
