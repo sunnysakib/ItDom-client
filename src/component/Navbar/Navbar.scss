@@ -1,0 +1,32 @@
+.navbar{
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: white;
+
+    .options{
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+        flex: warp;
+        justify-content: space-between;
+
+        .option{
+            color: gray;
+            font-size: 30px;
+        }
+
+        .user{
+            display: flex;
+            width: 100px;
+            justify-content: space-around;
+        }
+    }
+
+}
