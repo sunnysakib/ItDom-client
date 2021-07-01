@@ -1,0 +1,47 @@
+.countdown {
+  background-image: url("../../image/elti-meshau-2S2F2exmbhw-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 80px 40px 80px 40px;
+  border-radius: 20px;
+  h2 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 600;
+  }
+  .countdown-date  {
+    font-size: 30px;
+    margin: 0 2px;
+    color: #f1f1f1;
+    text-align: center;
+  vertical-align: middle;
+    
+  }
+}
+
+.time{
+    span {
+        text-align: center;
+        width:100%;
+        background-color: #e90101;
+        padding: 10px 15px;
+        margin: 8px;
+        border-radius: 10px;
+    }
+}
+
+
+// .countdown-date {
+//   text-align: center;
+//   vertical-align: middle;
+//   display: inline-block;
+//   overflow: hidden;
+//   font-size: 26px;
+//   font-weight: bold;
+//   border-radius: 10px;
+//   line-height: 60px;
+//   width: 60px;
+//   height: 60px;
+//   color: #fff;
+// }
